@@ -1,4 +1,12 @@
+<div align="center">
+  <img height="250" src="https://media.licdn.com/dms/image/D4E16AQEoY-sxFLABnw/profile-displaybackgroundimage-shrink_350_1400/0/1697846332515?e=1704931200&v=beta&t=cliTXW8o2lBDSih912t7h9YTnqRtCMv-Dc3O1lFC-DU"  />
+</div>
 
+###
+
+<img src="https://raw.githubusercontent.com/ismailbentabett/ismailbentabett/output/snake.svg" alt="Snake animation" />
+
+###
 ## 🌐 Socials:
 [![ismailbentabett](https://img.shields.io/badge/portfolio-ismailbentabett-blue)](https://ismailbentabett.github.io/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ismailbentabett) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ismailbentabett) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismailbentabett) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismailbentabett)   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ismailbentabett)
