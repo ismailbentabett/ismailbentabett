@@ -7,13 +7,13 @@
 <img src="https://raw.githubusercontent.com/ismailbentabett/ismailbentabett/output/snake.svg" alt="Snake animation" />
 
 ###
-## 🌐 Socials:
+## 🌐 Socials :
 [![ismailbentabett](https://img.shields.io/badge/portfolio-ismailbentabett-blue)](https://ismailbentabett.github.io/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ismailbentabett) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ismailbentabett) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ismailbentabett) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismailbentabett) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismailbentabett) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ismailbentabett) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ismailbentabett) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/ismailbentabett) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ismailbentabett) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ismailbentabett) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ismailbentabett) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ismailbentabett) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ismailbentabett) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ismailbentabett) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ismailbentabett) 
 ![X (formerly Twitter) Url](https://img.shields.io/twitter/follow/ismailbentabett)
 
 ###
-# 💻 Tech Stack:
+# 💻 Tech Stack :
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -87,12 +87,12 @@
 </div>
 
 ###
-# 📊 GitHub Stats: 
+# 📊 GitHub Stats : 
 ![](https://github-readme-stats-6ijsh5lcg-xisben2001x.vercel.app/api?username=ismailbentabett&theme=dark&hide_border=false&show_icons=false&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ismailbentabett&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-6ijsh5lcg-xisben2001x.vercel.app/api/top-langs/?username=ismailbentabett&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20)
 
-# 🚀 Leetcode Stats: 
+# 🚀 Leetcode Stats : 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ismailbentabett?theme=dark&font=Cherry%20Swash&ext=heatmap)
 
