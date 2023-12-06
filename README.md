@@ -52,7 +52,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ismailbentabett&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-6ijsh5lcg-xisben2001x.vercel.app/api/top-langs/?username=ismailbentabett&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20)
 
-# 🚀 Leetcode Stats : 
+# 🚀 Leetcode Stats For Life : 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ismailbentabett?theme=dark&font=Cherry%20Swash&ext=heatmap)
 
