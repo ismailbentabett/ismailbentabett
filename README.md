@@ -43,7 +43,8 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"  alt="amazonwebservices logo"  />
 
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"  alt="docker logo"  />
-
+  
+  <img src="https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=white&style=for-the-badge"  alt="solid logo"  />
 </div>
 
 ###
