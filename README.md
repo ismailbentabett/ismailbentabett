@@ -45,6 +45,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"  alt="docker logo"  />
   
   <img src="https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=white&style=for-the-badge"  alt="solid logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"  alt="nuxtjs logo"  />
+
+###
 </div>
 
 ###
