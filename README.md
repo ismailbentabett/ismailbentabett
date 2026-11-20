@@ -1,229 +1,155 @@
 <div align="center">
 
-<img src="./banner.png" alt="Ismail Bentabet, Software Engineer" width="100%" />
-
-<a href="https://ismailbentabett.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=720&lines=Full-Stack+%26+Frontend+Engineer;React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+Nuxt+%C2%B7+Laravel;Founder+%40+Site+Sledge;1%2C404+hours+on+Upwork+%C2%B7+100%25+Job+Success" alt="Full-Stack and Frontend Engineer" />
-</a>
+<img src=".github/assets/profile-banner.svg" alt="Ismail Bentabett, full-stack engineer and founder of Site Sledge" width="100%" />
 
 <p>
-  <a href="https://ismailbentabett.com"><img src="https://img.shields.io/badge/Portfolio-ismailbentabett.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ismailbentabett/"><img src="https://img.shields.io/badge/LinkedIn-ismailbentabett-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/ismailbentabett"><img src="https://img.shields.io/badge/X-@ismailbentabett-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</p>
-
-<p>
-  <a href="https://github.com/ismailbentabett?tab=followers"><img src="https://img.shields.io/github/followers/ismailbentabett?label=Followers&style=flat-square&color=4F46E5" alt="Followers" /></a>
-  <a href="https://github.com/ismailbentabett?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/ismailbentabett?affiliations=OWNER&label=Stars%20earned&style=flat-square&color=F59E0B" alt="Stars earned" /></a>
-  <img src="https://img.shields.io/badge/Upwork-100%25%20Job%20Success-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" />
-  <img src="https://img.shields.io/badge/Saida%2C%20Algeria-Remote%20(UTC%2B1)-555?style=flat-square" alt="Location" />
+  <a href="https://ismailbentabett.com"><img src="https://img.shields.io/badge/ismailbentabett.com-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/ismailbentabett/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/ismailbentabett"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://github.com/ismailbentabett?tab=followers"><img src="https://img.shields.io/github/followers/ismailbentabett?label=Followers&style=flat-square&color=22D3EE" alt="GitHub followers" /></a>
+  <img src="https://img.shields.io/badge/Saida%2C%20Algeria-Remote%20(UTC%2B1)-374151?style=flat-square" alt="Location: Saida, Algeria, remote UTC+1" />
 </p>
 
 </div>
 
----
+I'm a **full-stack engineer with a frontend focus** and the **founder of Site Sledge**, where I build websites and automation for small businesses. I ship fast, clean products with **Next.js, React, Vue/Nuxt and Laravel**, and I own the backend, tests and CI that go with them.
 
-## 👋 About me
+- **Freelancing since 2019**: 1,404 hours on Upwork, 100% Job Success, $30K+ earned.
+- **Product builder**: co-founded Shortcut (2020 to 2023) and built its MVP; now running Site Sledge.
+- **BSc in Computer Science**, Université Dr Moulay Tahar de Saida. I work in Arabic, English and French, and I'm open to relocation with visa sponsorship.
 
-I'm **Ismail Bentabet**, a full-stack engineer with a frontend focus. I build fast, clean web apps with **React / Next.js**, **Vue / Nuxt** and **Laravel**, and I also handle the backend, tests and CI that go with them.
+## What I build
 
-- 🏗️ **Founder of Site Sledge**: websites and automation for small businesses.
-- 💼 **Freelancing since 2019**: **1,404 hours** on Upwork, **100% Job Success**, **$30K+** earned.
-- 🎓 **BSc in Computer Science**, Université Dr Moulay Tahar de Saida.
-- 🌍 Remote (UTC+1), open to relocation with visa sponsorship. I speak Arabic, English and French.
+- **Product frontends that convert**: Next.js and Nuxt storefronts and marketing sites tuned for speed (around 40% faster page loads at Monday Merch, around 25% more demo sign-ups at Maildroppa).
+- **Full-stack business apps**: Laravel + Filament + Inertia/Vue back offices, CMSs and e-commerce, like the modular CMS I built for a Motorola Solutions partner.
+- **AI and automation**: LLM features on the OpenAI API, MCP servers for agents, and n8n / GoHighLevel workflows that take manual work off small teams.
+- **Delivery pipelines**: Docker, GitLab CI and GitHub Actions; I cut one client's CI pipeline from around 20 minutes to around 10.
 
----
+## Tech stack
 
-## 🛠️ Tech stack
+| Area | Tools |
+|---|---|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=black) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Redis](https://img.shields.io/badge/Upstash%20Redis-00E9A3?style=flat-square&logo=upstash&logoColor=black) |
+| **AI** | ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-111827?style=flat-square) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vue,nuxtjs,angular,tailwind&perline=10" alt="Frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,php,python,flask,go,postgres,prisma,firebase&perline=10" alt="Backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,gitlab,git,wordpress&perline=10" alt="Tools" />
-</p>
+## Featured projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="React Native / Expo" />
-  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=black" alt="Pinia" />
-  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia" />
-  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=black" alt="Filament" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor" />
-  <img src="https://img.shields.io/badge/Directus-263238?style=flat-square&logo=directus&logoColor=white" alt="Directus" />
-  <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" />
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
-  <img src="https://img.shields.io/badge/GoHighLevel-1F6FEB?style=flat-square" alt="GoHighLevel" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ismailbentabett/mosaic"><b>Mosaic</b></a><br />
+      The everything app: tasks, calendar, habits, money, food, gym and notes in one self-hosted SQLite app with a chat-first UI and a 156-tool MCP server.<br /><br />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/MCP-111827?style=flat-square" alt="MCP" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ismailbentabett/trp-project"><b>TRP Project</b></a><br />
+      Modular CMS for a Motorola Solutions partner: e-commerce management, AI content generation and social media integrations.<br /><br />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=black" alt="Filament" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+      <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ismailbentabett/ResumifyAI"><b>ResumifyAI</b></a><br />
+      AI resume reviewer that scores a resume and returns concrete, actionable feedback.<br /><br />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Upstash%20Redis-00E9A3?style=flat-square&logo=upstash&logoColor=black" alt="Upstash Redis" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ismailbentabett/Screamer"><b>Screamer</b></a><br />
+      Twitter-style microblogging platform on a Clean Architecture .NET API with an Angular client.<br /><br />
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ismailbentabett/isiconic_web_app"><b>Isiconic</b></a><br />
+      Social commerce platform: a social network combined with a multi-vendor marketplace.<br /><br />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ismailbentabett/laravel-instagram-clone"><b>Laravel Instagram Clone</b></a><br />
+      Photo-sharing social app modelled on Instagram, built as a Laravel reference implementation.<br /><br />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ismailbentabett/shopping-cart-vue-vuetify-firebase"><b>Vue Shopping Cart</b></a><br />
+      Storefront and shopping cart with a Firebase backend and Material UI components.<br /><br />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+      <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" alt="Vuetify" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ismailbentabett/profiles-rest-api-django"><b>Profiles REST API</b></a><br />
+      User profiles API with token authentication, built on Django REST Framework.<br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework" />
+    </td>
+  </tr>
+</table>
 
----
+<p align="center"><a href="https://github.com/ismailbentabett?tab=repositories&type=source">Browse all public repositories &rarr;</a></p>
 
-## 💼 Experience highlights
+## Experience
 
 | Role | Stack | Highlights |
 |---|---|---|
-| **Founder** · Site Sledge *(2026 – now)* | Next.js, GoHighLevel, automation | Websites and automation for small businesses |
-| **Frontend Developer** · Merchwell *(Jul 2025 – Jun 2026)* | Next.js, React | Frontend for a merch storefront |
-| **Frontend Developer** · Maildroppa | Next.js, Tailwind, Directus | ~25% more demo sign-ups; React email builder |
-| **Frontend Developer** · Monday Merch | Nuxt, Vue, Pinia | ~40% faster page loads; ~30% more engagement |
-| **Full-Stack Developer** · Telecom Radio Professionnel (Motorola Solutions partner) | Laravel, Vue, Inertia, Tailwind, Filament | Modular CMS with e-commerce and AI content tools ([trp-project](https://github.com/ismailbentabett/trp-project)) |
-| **Developer** · SIG Service | Vue, Capacitor, Odoo, GitLab CI/CD | CI pipeline cut from ~20 min to ~10 min |
-| **Co-founder** · Shortcut *(2020 – 2023)* | Vue, Nuxt, NestJS | Built the product MVP |
+| **Founder**, Site Sledge *(2026 to now)* | Next.js, GoHighLevel, automation | Websites and automation for small businesses |
+| **Frontend Developer**, Merchwell *(Jul 2025 to Jun 2026)* | Next.js, React | Frontend for a merch storefront |
+| **Frontend Developer**, Maildroppa | Next.js, Tailwind, Directus | Around 25% more demo sign-ups; React email builder |
+| **Frontend Developer**, Monday Merch | Nuxt, Vue, Pinia | Around 40% faster page loads; around 30% more engagement |
+| **Full-Stack Developer**, Telecom Radio Professionnel | Laravel, Vue, Inertia, Filament | Modular CMS with e-commerce and AI content tools |
+| **Developer**, SIG Service | Vue, Capacitor, Odoo, GitLab CI/CD | CI pipeline cut from around 20 to around 10 minutes |
+| **Co-founder**, Shortcut *(2020 to 2023)* | Vue, Nuxt, NestJS | Built the product MVP |
 
----
-
-## ⭐ Featured projects
+## GitHub stats
 
 <p align="center">
-  <a href="https://github.com/ismailbentabett/mosaic"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ismailbentabett&repo=mosaic&hide_border=true" alt="mosaic" /></a>
-  <a href="https://github.com/ismailbentabett/ResumifyAI"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ismailbentabett&repo=ResumifyAI&hide_border=true" alt="ResumifyAI" /></a>
-  <a href="https://github.com/ismailbentabett/trp-project"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ismailbentabett&repo=trp-project&hide_border=true" alt="trp-project" /></a>
-  <a href="https://github.com/ismailbentabett/sitesledge-plan-center"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ismailbentabett&repo=sitesledge-plan-center&hide_border=true" alt="sitesledge-plan-center" /></a>
-  <a href="https://github.com/ismailbentabett/pawtalk-mobile"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ismailbentabett&repo=pawtalk-mobile&hide_border=true" alt="pawtalk-mobile" /></a>
-  <a href="https://github.com/ismailbentabett/nebula"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ismailbentabett&repo=nebula&hide_border=true" alt="nebula" /></a>
-</p>
-
-| Project | What it is | Stack | Links |
-|---|---|---|---|
-| **[Mosaic](https://github.com/ismailbentabett/mosaic)** | Self-hosted "everything app": tasks, calendar, habits, money, food, gym and notes, with a chat-first UI and a 156-tool MCP server | TypeScript, React, Hono, Mantine, SQLite | [Live demo](https://ismailbentabett.github.io/mosaic/) |
-| **[ResumifyAI](https://github.com/ismailbentabett/ResumifyAI)** | AI resume reviewer | TypeScript | [Live](https://resumify-ai.vercel.app) |
-| **[TRP Project](https://github.com/ismailbentabett/trp-project)** | Modular CMS: e-commerce, AI content, social integrations | Laravel, Filament, Vue, Tailwind | — |
-| **[Site Sledge Plan Center](https://github.com/ismailbentabett/sitesledge-plan-center)** | Plan center for Site Sledge clients | TypeScript | [Live](https://sitesledge-plan-center.vercel.app) |
-| **PawTalk** ([mobile](https://github.com/ismailbentabett/pawtalk-mobile) · [dashboard](https://github.com/ismailbentabett/pawtalk-dashboard) · [landing](https://github.com/ismailbentabett/pawtalk-landing)) | Pet app: mobile app, admin dashboard and landing page | TypeScript, React Native | [Dashboard](https://pawtalk-dashboard.vercel.app) · [Landing](https://pawtalk-landing.vercel.app) |
-| **[Nebula](https://github.com/ismailbentabett/nebula)** | CSS/SCSS extractor for Vue, React, Svelte and Angular components | TypeScript, Node.js | npm `@ismailbentabett/nebula` |
-| **[SMS Dashboard](https://github.com/ismailbentabett/sms-dashboard)** | Read-only analytics for cold-SMS campaigns | Next.js, PostgreSQL, GoHighLevel API | — |
-| **[Aqua Flow](https://github.com/ismailbentabett/aqua-flow-hydration-marketing-focused-app)** | Marketing site for a hydration app | Next.js, Tailwind, Docker | [Live](https://aqua-flow-hydration-marketing-focused-app.vercel.app) |
-| **[Demo Homepage Studio](https://github.com/ismailbentabett/demo-homepage-studio)** | Concept demo: homepage designs for local businesses | HTML, CSS | [Live](https://demo-homepage-studio.vercel.app) |
-
----
-
-## 📂 All public projects
-
-<details open>
-<summary><b>🌐 Web apps & products</b></summary>
-
-| Repo | Description | Language | Stars |
-|---|---|---|---|
-| [mosaic](https://github.com/ismailbentabett/mosaic) | Self-hosted everything app with an MCP server | TypeScript | ![](https://img.shields.io/github/stars/ismailbentabett/mosaic?style=flat-square&label=%E2%AD%90) |
-| [ResumifyAI](https://github.com/ismailbentabett/ResumifyAI) | AI resume reviewer | TypeScript | ![](https://img.shields.io/github/stars/ismailbentabett/ResumifyAI?style=flat-square&label=%E2%AD%90) |
-| [trp-project](https://github.com/ismailbentabett/trp-project) | Modular Laravel + Filament CMS with e-commerce and AI tools | JavaScript | ![](https://img.shields.io/github/stars/ismailbentabett/trp-project?style=flat-square&label=%E2%AD%90) |
-| [sitesledge-plan-center](https://github.com/ismailbentabett/sitesledge-plan-center) | Site Sledge client plan center | TypeScript | ![](https://img.shields.io/github/stars/ismailbentabett/sitesledge-plan-center?style=flat-square&label=%E2%AD%90) |
-| [sms-dashboard](https://github.com/ismailbentabett/sms-dashboard) | SMS campaign analytics (GoHighLevel API) | TypeScript | ![](https://img.shields.io/github/stars/ismailbentabett/sms-dashboard?style=flat-square&label=%E2%AD%90) |
-| [pawtalk-mobile](https://github.com/ismailbentabett/pawtalk-mobile) | PawTalk mobile app | TypeScript | ![](https://img.shields.io/github/stars/ismailbentabett/pawtalk-mobile?style=flat-square&label=%E2%AD%90) |
-| [pawtalk-dashboard](https://github.com/ismailbentabett/pawtalk-dashboard) | PawTalk admin dashboard | TypeScript | ![](https://img.shields.io/github/stars/ismailbentabett/pawtalk-dashboard?style=flat-square&label=%E2%AD%90) |
-| [pawtalk-landing](https://github.com/ismailbentabett/pawtalk-landing) | PawTalk landing page | TypeScript | ![](https://img.shields.io/github/stars/ismailbentabett/pawtalk-landing?style=flat-square&label=%E2%AD%90) |
-| [aqua-flow-hydration-marketing-focused-app](https://github.com/ismailbentabett/aqua-flow-hydration-marketing-focused-app) | Hydration app marketing site | TypeScript | ![](https://img.shields.io/github/stars/ismailbentabett/aqua-flow-hydration-marketing-focused-app?style=flat-square&label=%E2%AD%90) |
-| [demo-homepage-studio](https://github.com/ismailbentabett/demo-homepage-studio) | Concept demo homepages | HTML | ![](https://img.shields.io/github/stars/ismailbentabett/demo-homepage-studio?style=flat-square&label=%E2%AD%90) |
-| [a2p-wizard-website](https://github.com/ismailbentabett/a2p-wizard-website) | A2P wizard website | HTML | ![](https://img.shields.io/github/stars/ismailbentabett/a2p-wizard-website?style=flat-square&label=%E2%AD%90) |
-| [isiconic_web_app](https://github.com/ismailbentabett/isiconic_web_app) | Social network + multi-vendor marketplace | Vue | ![](https://img.shields.io/github/stars/ismailbentabett/isiconic_web_app?style=flat-square&label=%E2%AD%90) |
-| [shopping-cart-vue-vuetify-firebase](https://github.com/ismailbentabett/shopping-cart-vue-vuetify-firebase) | Shopping cart with Vue, Vuetify and Firebase | Vue | ![](https://img.shields.io/github/stars/ismailbentabett/shopping-cart-vue-vuetify-firebase?style=flat-square&label=%E2%AD%90) |
-| [laravel-instagram-clone](https://github.com/ismailbentabett/laravel-instagram-clone) | Instagram clone in Laravel | PHP | ![](https://img.shields.io/github/stars/ismailbentabett/laravel-instagram-clone?style=flat-square&label=%E2%AD%90) |
-| [Screamer](https://github.com/ismailbentabett/Screamer) | Twitter-style social platform | C# | ![](https://img.shields.io/github/stars/ismailbentabett/Screamer?style=flat-square&label=%E2%AD%90) |
-| [sweetr](https://github.com/ismailbentabett/sweetr) | Twitter-style app with Solid and Firebase | PHP | ![](https://img.shields.io/github/stars/ismailbentabett/sweetr?style=flat-square&label=%E2%AD%90) |
-| [NeverNote](https://github.com/ismailbentabett/NeverNote) | Minimal note-taking app | TypeScript | ![](https://img.shields.io/github/stars/ismailbentabett/NeverNote?style=flat-square&label=%E2%AD%90) |
-| [Concours](https://github.com/ismailbentabett/Concours) | Event site for a fashion contest (Laravel) | Blade | ![](https://img.shields.io/github/stars/ismailbentabett/Concours?style=flat-square&label=%E2%AD%90) |
-| [ismailbentabett.github.io](https://github.com/ismailbentabett/ismailbentabett.github.io) | Portfolio site | CSS | ![](https://img.shields.io/github/stars/ismailbentabett/ismailbentabett.github.io?style=flat-square&label=%E2%AD%90) |
-
-</details>
-
-<details open>
-<summary><b>🧰 Tools & technical challenges</b></summary>
-
-| Repo | Description | Language | Stars |
-|---|---|---|---|
-| [nebula](https://github.com/ismailbentabett/nebula) | CSS/SCSS extractor for component frameworks | TypeScript | ![](https://img.shields.io/github/stars/ismailbentabett/nebula?style=flat-square&label=%E2%AD%90) |
-| [pack-builder-ultimate](https://github.com/ismailbentabett/pack-builder-ultimate) | Pack builder | — | ![](https://img.shields.io/github/stars/ismailbentabett/pack-builder-ultimate?style=flat-square&label=%E2%AD%90) |
-| [fluentpet-test](https://github.com/ismailbentabett/fluentpet-test) | Pet manager app, Expo technical challenge | TypeScript | ![](https://img.shields.io/github/stars/ismailbentabett/fluentpet-test?style=flat-square&label=%E2%AD%90) |
-| [assessment-solution-aventique](https://github.com/ismailbentabett/assessment-solution-aventique) | Technical assessment (Vite + TypeScript) | TypeScript | ![](https://img.shields.io/github/stars/ismailbentabett/assessment-solution-aventique?style=flat-square&label=%E2%AD%90) |
-
-</details>
-
-<details open>
-<summary><b>📱 Mobile</b></summary>
-
-| Repo | Description | Language | Stars |
-|---|---|---|---|
-| [Movie-Info](https://github.com/ismailbentabett/Movie-Info) | Movie info app | Dart | ![](https://img.shields.io/github/stars/ismailbentabett/Movie-Info?style=flat-square&label=%E2%AD%90) |
-| [Bmi-Calculator-App](https://github.com/ismailbentabett/Bmi-Calculator-App) | BMI calculator app | Dart | ![](https://img.shields.io/github/stars/ismailbentabett/Bmi-Calculator-App?style=flat-square&label=%E2%AD%90) |
-| [flutter-todo-app-ki-chghol](https://github.com/ismailbentabett/flutter-todo-app-ki-chghol) | To-do app | Dart | ![](https://img.shields.io/github/stars/ismailbentabett/flutter-todo-app-ki-chghol?style=flat-square&label=%E2%AD%90) |
-| [react-native-todo-app](https://github.com/ismailbentabett/react-native-todo-app) | To-do app in React Native | JavaScript | ![](https://img.shields.io/github/stars/ismailbentabett/react-native-todo-app?style=flat-square&label=%E2%AD%90) |
-
-</details>
-
-<details>
-<summary><b>🎓 University & course projects</b></summary>
-
-| Repo | Description | Language | Stars |
-|---|---|---|---|
-| [java-gui-project-Tp-SI-2021](https://github.com/ismailbentabett/java-gui-project-Tp-SI-2021) | Java GUI university project | Java | ![](https://img.shields.io/github/stars/ismailbentabett/java-gui-project-Tp-SI-2021?style=flat-square&label=%E2%AD%90) |
-| [gauss-elimination-method](https://github.com/ismailbentabett/gauss-elimination-method) | Gauss elimination method | Python | ![](https://img.shields.io/github/stars/ismailbentabett/gauss-elimination-method?style=flat-square&label=%E2%AD%90) |
-| [shadok](https://github.com/ismailbentabett/shadok) | Shadok exercise in C | C | ![](https://img.shields.io/github/stars/ismailbentabett/shadok?style=flat-square&label=%E2%AD%90) |
-| [profiles-rest-api-django](https://github.com/ismailbentabett/profiles-rest-api-django) | Profiles REST API (course project) | Python | ![](https://img.shields.io/github/stars/ismailbentabett/profiles-rest-api-django?style=flat-square&label=%E2%AD%90) |
-| [jenkins-devops-microservice](https://github.com/ismailbentabett/jenkins-devops-microservice) | Jenkins pipeline (course project) | Java | ![](https://img.shields.io/github/stars/ismailbentabett/jenkins-devops-microservice?style=flat-square&label=%E2%AD%90) |
-| [azure-devops-kubernetes-terraform-pipeline](https://github.com/ismailbentabett/azure-devops-kubernetes-terraform-pipeline) | Azure DevOps pipeline (course project) | Java | ![](https://img.shields.io/github/stars/ismailbentabett/azure-devops-kubernetes-terraform-pipeline?style=flat-square&label=%E2%AD%90) |
-| [ng-asp-todo-app](https://github.com/ismailbentabett/ng-asp-todo-app) | Angular + ASP.NET to-do app (training) | TypeScript | ![](https://img.shields.io/github/stars/ismailbentabett/ng-asp-todo-app?style=flat-square&label=%E2%AD%90) |
-| [.NET-Microservices-Learning-Repo](https://github.com/ismailbentabett/.NET-Microservices-Learning-Repo) | .NET microservices course code (training) | C# | ![](https://img.shields.io/github/stars/ismailbentabett/.NET-Microservices-Learning-Repo?style=flat-square&label=%E2%AD%90) |
-| [Clean-Architecture-DDD-Learning-Repo](https://github.com/ismailbentabett/Clean-Architecture-DDD-Learning-Repo) | Clean Architecture & DDD course code (training) | C# | ![](https://img.shields.io/github/stars/ismailbentabett/Clean-Architecture-DDD-Learning-Repo?style=flat-square&label=%E2%AD%90) |
-| [BuberDinner](https://github.com/ismailbentabett/BuberDinner) | Clean Architecture REST API course code (training) | C# | ![](https://img.shields.io/github/stars/ismailbentabett/BuberDinner?style=flat-square&label=%E2%AD%90) |
-| [PropertiesToday](https://github.com/ismailbentabett/PropertiesToday) | Layered Web API course code (training) | C# | ![](https://img.shields.io/github/stars/ismailbentabett/PropertiesToday?style=flat-square&label=%E2%AD%90) |
-
-</details>
-
----
-
-## 🌍 Open source
-
-Forks I work from, including the Arabic React and Vue docs:
-
-[![ar.react.dev](https://img.shields.io/badge/ar.react.dev-React%20docs%20in%20Arabic-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/ismailbentabett/ar.react.dev)
-[![docs-ar](https://img.shields.io/badge/docs--ar-Vue%20docs%20in%20Arabic-42B883?style=flat-square&logo=vue.js&logoColor=white)](https://github.com/ismailbentabett/docs-ar)
-[![react.dev](https://img.shields.io/badge/react.dev-fork-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/ismailbentabett/react.dev)
-[![react](https://img.shields.io/badge/react-fork-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/ismailbentabett/react)
-[![angular](https://img.shields.io/badge/angular-fork-DD0031?style=flat-square&logo=angular&logoColor=white)](https://github.com/ismailbentabett/angular)
-[![vue docs](https://img.shields.io/badge/vuejs%2Fdocs-fork-42B883?style=flat-square&logo=vue.js&logoColor=white)](https://github.com/ismailbentabett/docs)
-[![n8n](https://img.shields.io/badge/n8n-fork-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://github.com/ismailbentabett/n8n)
-[![first-contributions](https://img.shields.io/badge/first--contributions-fork-555?style=flat-square&logo=github)](https://github.com/ismailbentabett/first-contributions)
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ismailbentabett&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=4F46E5&icon_color=4F46E5" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbentabett&layout=compact&langs_count=8&hide_border=true&title_color=4F46E5" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ismailbentabett&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0F19&title_color=8B5CF6&icon_color=22D3EE&text_color=A1A8B8" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbentabett&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F19&title_color=8B5CF6&text_color=A1A8B8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ismailbentabett&hide_border=true&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=ismailbentabett&hide_border=true&background=0B0F19&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=A1A8B8&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=1F2937" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ismailbentabett&hide_border=true&color=4F46E5&line=4F46E5&point=14B8A6&area=true&bg_color=ffffff00" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/ismailbentabett/ismailbentabett/output/snake.svg" alt="Contribution graph snake animation" />
 </p>
+
+## Let's connect
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ismailbentabett/ismailbentabett/output/snake.svg" alt="Snake eating my contributions" />
+  <a href="https://ismailbentabett.com"><img src="https://img.shields.io/badge/Website-ismailbentabett.com-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/ismailbentabett"><img src="https://img.shields.io/badge/GitHub-ismailbentabett-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ismailbentabett/"><img src="https://img.shields.io/badge/LinkedIn-ismailbentabett-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/ismailbentabett"><img src="https://img.shields.io/badge/X-@ismailbentabett-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
----
-
-## 🎓 Education & training
-
-- **BSc in Computer Science**, Université Dr Moulay Tahar de Saida
-- Completed courses: Zero To Mastery (web development, Angular), freeCodeCamp
-
----
-
-<div align="center">
-
-### 🤝 Let's work together
-
-Need a web app, a faster frontend or automation that saves hours? Reach me through my **[portfolio](https://ismailbentabett.com)** or **[LinkedIn](https://www.linkedin.com/in/ismailbentabett/)**.
-
-</div>
+<p align="center">Need a web app, a faster frontend or automation that saves hours? Reach out through <a href="https://ismailbentabett.com">my site</a> or <a href="https://www.linkedin.com/in/ismailbentabett/">LinkedIn</a>.</p>
