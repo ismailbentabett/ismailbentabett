@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Ismail Bentabett</title>
+  <desc id="desc">Full-stack engineer and founder of Site Sledge. Next.js, React, Vue and Nuxt, Laravel, Node.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="wash" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B0F19" stop-opacity="0"/>
+      <stop offset="0.55" stop-color="#8B5CF6" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.16"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.06"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1280" height="320" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="320" fill="#0B0F19"/>
+    <rect width="1280" height="320" fill="url(#wash)"/>
+    <rect width="1280" height="320" fill="url(#grid)"/>
+    <circle cx="1080" cy="60" r="260" fill="url(#glow)"/>
+
+    <!-- Decorative node graph, right side -->
+    <g fill="none" stroke="url(#accent)" stroke-width="1.5" stroke-opacity="0.55">
+      <path d="M940 96L1040 152L1150 104"/>
+      <path d="M1040 152L1010 236L1130 230L1150 104"/>
+      <path d="M1130 230L1210 176"/>
+    </g>
+    <g fill="#0B0F19" stroke="url(#accent)" stroke-width="2">
+      <circle cx="940" cy="96" r="7"/>
+      <circle cx="1040" cy="152" r="10"/>
+      <circle cx="1150" cy="104" r="7"/>
+      <circle cx="1010" cy="236" r="6"/>
+      <circle cx="1130" cy="230" r="8"/>
+      <circle cx="1210" cy="176" r="5"/>
+    </g>
+
+    <!-- Monogram tile -->
+    <rect x="72" y="88" width="112" height="112" rx="26" fill="url(#accent)"/>
+    <text x="128" y="163" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="800" fill="#FFFFFF" letter-spacing="-1">IB</text>
+
+    <!-- Name and headline -->
+    <text x="216" y="134" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#FFFFFF" letter-spacing="-1.5">Ismail Bentabett</text>
+    <text x="218" y="178" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="500" fill="#A1A8B8">Full-stack engineer · Founder @ Site Sledge</text>
+    <rect x="218" y="196" width="96" height="4" rx="2" fill="url(#accent)"/>
+
+    <!-- Tech chips -->
+    <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E5E7EB" text-anchor="middle">
+      <rect x="218.5" y="226.5" width="92" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.03" stroke="#8B5CF6"/>
+      <text x="264.5" y="248">Next.js</text>
+      <rect x="322.5" y="226.5" width="82" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.03" stroke="#8B5CF6"/>
+      <text x="363.5" y="248">React</text>
+      <rect x="416.5" y="226.5" width="112" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.03" stroke="#5C8BF1"/>
+      <text x="472.5" y="248">Vue / Nuxt</text>
+      <rect x="540.5" y="226.5" width="94" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.03" stroke="#3FB0EB"/>
+      <text x="587.5" y="248">Laravel</text>
+      <rect x="646.5" y="226.5" width="74" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.03" stroke="#22D3EE"/>
+      <text x="683.5" y="248">Node</text>
+    </g>
+
+    <text x="1208" y="290" text-anchor="end" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" fill="#6B7280">ismailbentabett.com · Remote (UTC+1)</text>
+  </g>
+</svg>
